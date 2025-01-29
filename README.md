@@ -5,7 +5,7 @@ This is a replica of the SmolLM2-135M model trained on the Cosmopedia-v2 dataset
 
 ```
 ├── requirements.txt # Project dependencies
-├── config_smollm.py # Configuration for SmolLM2-135M
+├── config_smollm2_135M.yaml # Configuration for SmolLM2-135M
 ├── model.py         # Model implementation
 ├── train.py         # Training script
 ├── app.py           # Gradio interface for model deployment
