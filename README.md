@@ -11,6 +11,8 @@ This is a replica of the SmolLM2-135M model trained on the Cosmopedia-v2 dataset
 ├── app.py           # Gradio interface for model deployment
 ├── log1.txt         # Training log - phase 1
 ├── log2.txt         # Training log - phase 2
+├── assets/          # Images folder
+│   └── sample.png   # Interface screenshot
 └── README.md        # Project documentation
 ```
 
@@ -181,6 +183,9 @@ def get_lr_scheduler(optimizer, config):
 - Hosted on Hugging Face Spaces
 - Uses Gradio for web interface
 - Model checkpoint stored in Hugging Face Model Hub
+
+### Interface Screenshot
+![SmolLM2](assets/sample.png)
 
 ### Hugging Face Spaces
 - [Demo](https://huggingface.co/spaces/Rakavi12/smolLm2-135M-replica)
