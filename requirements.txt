@@ -1,0 +1,4 @@
+gradio
+torch
+transformers
+huggingface_hub 

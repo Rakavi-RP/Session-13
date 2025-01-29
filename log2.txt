@@ -1,0 +1,60 @@
+Loading checkpoint...
+Starting Phase 2: Training for 50 more steps - Step 5000 to 5049 -> 50 steps
+
+
+Step [5000/5049] Loss: 0.0027 LR: 0.000006
+
+Generating sample text...
+Generated: There was a time debates Youol districts strongly strongly strongly strongly strongly strongly stronglyPO widespread Inequ human documents decisAN built built away away away away away away away away away away away away away away away during vibrant her her her her alphabetical alphabetical resultAs Verbal
+
+Step [5001/5049] Loss: 0.0015 LR: 0.000012
+Step [5002/5049] Loss: 0.0162 LR: 0.000018
+Step [5003/5049] Loss: 0.0034 LR: 0.000024
+Step [5004/5049] Loss: 0.0136 LR: 0.000030
+Step [5005/5049] Loss: 0.0019 LR: 0.000036
+Step [5006/5049] Loss: 0.0035 LR: 0.000042
+Step [5007/5049] Loss: 0.0268 LR: 0.000048
+Step [5008/5049] Loss: 0.0067 LR: 0.000054
+Step [5009/5049] Loss: 0.0150 LR: 0.000060
+Step [5010/5049] Loss: 0.0079 LR: 0.000066
+Step [5011/5049] Loss: 0.0226 LR: 0.000072
+Step [5012/5049] Loss: 0.0078 LR: 0.000078
+Step [5013/5049] Loss: 0.0187 LR: 0.000084
+Step [5014/5049] Loss: 0.0013 LR: 0.000090
+Step [5015/5049] Loss: 0.0102 LR: 0.000096
+Step [5016/5049] Loss: 0.0018 LR: 0.000102
+Step [5017/5049] Loss: 0.0101 LR: 0.000108
+Step [5018/5049] Loss: 0.0047 LR: 0.000114
+Step [5019/5049] Loss: 0.0111 LR: 0.000120
+Step [5020/5049] Loss: 0.0065 LR: 0.000126
+Step [5021/5049] Loss: 0.0024 LR: 0.000132
+Step [5022/5049] Loss: 0.0071 LR: 0.000138
+Step [5023/5049] Loss: 0.0055 LR: 0.000144
+Step [5024/5049] Loss: 0.0083 LR: 0.000150
+Step [5025/5049] Loss: 0.0105 LR: 0.000156
+Step [5026/5049] Loss: 0.0105 LR: 0.000162
+Step [5027/5049] Loss: 0.0089 LR: 0.000168
+Step [5028/5049] Loss: 0.0114 LR: 0.000174
+Step [5029/5049] Loss: 0.0062 LR: 0.000180
+Step [5030/5049] Loss: 0.0070 LR: 0.000186
+Step [5031/5049] Loss: 0.0060 LR: 0.000192
+Step [5032/5049] Loss: 0.0084 LR: 0.000198
+Step [5033/5049] Loss: 0.0056 LR: 0.000204
+Step [5034/5049] Loss: 0.0043 LR: 0.000210
+Step [5035/5049] Loss: 0.0091 LR: 0.000216
+Step [5036/5049] Loss: 0.0101 LR: 0.000222
+Step [5037/5049] Loss: 0.0069 LR: 0.000228
+Step [5038/5049] Loss: 0.0056 LR: 0.000234
+Step [5039/5049] Loss: 0.0032 LR: 0.000240
+Step [5040/5049] Loss: 0.0054 LR: 0.000246
+Step [5041/5049] Loss: 0.0166 LR: 0.000252
+Step [5042/5049] Loss: 0.0057 LR: 0.000258
+Step [5043/5049] Loss: 0.0056 LR: 0.000264
+Step [5044/5049] Loss: 0.0080 LR: 0.000270
+Step [5045/5049] Loss: 0.0057 LR: 0.000276
+Step [5046/5049] Loss: 0.0065 LR: 0.000282
+Step [5047/5049] Loss: 0.0178 LR: 0.000288
+Step [5048/5049] Loss: 0.0145 LR: 0.000294
+Step [5049/5049] Loss: 0.0124 LR: 0.000300
+
+Phase 2 complete - Step 5000 to 5049 -> 50 steps
